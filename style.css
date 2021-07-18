@@ -421,6 +421,7 @@ img {
 .card {
   box-shadow: 2px 4px 11px 3px #929292;
   margin: 10px;
+  
 }
 
 .card:hover {
